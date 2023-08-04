@@ -1,0 +1,19 @@
+img {
+  width: 100px;
+}
+
+.unordered {
+  border: 2px red solid;
+  list-style: none;
+}
+
+.listItem {
+  padding: 20px;
+  background-color: blanchedalmond;
+  border: 2px blue dashed;
+}
+
+.main-title {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
